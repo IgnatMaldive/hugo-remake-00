@@ -1,5 +1,5 @@
 ---
-title: "Mypost"
+title: "MypostAAAAA"
 date: "2025-5-20"
 author: "Alex Mondinechen"
 excerpt: "This is a new post created manually to demonstrate local image hosting."
